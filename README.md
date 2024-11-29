@@ -1,5 +1,10 @@
 # BiasGuard
 
+### Abstract 
+
+This project aims to address bias in loan approval processes, focusing on ethical decision-making in the financial sector. Bias in machine learning models can disproportionately affect minority groups, resulting in unfair treatment. Using the IBM Fairness 360 toolkit, this project examines bias in loan and mortgage data, evaluates fairness, and implements mitigation strategies.  By applying fairness algorithms, the project assesses both pre- and post-processing techniques to minimize bias while ensuring accurate decision-making.
+
+
 ### Problem Statement 
 
 Bias and fairness in bank loan decisions pose a serious issue that impacts people and organizations alike. Usually, historical data—which may represent societal injustices or discriminatory lending practices—is utilized to train AI systems that approve loans. The AI models may reinforce or even magnify unfair treatment if these biases are not adequately recognized and addressed. This is especially true for marginalized groups that are based on characteristics like socioeconomic class, gender, color, or ethnicity.
